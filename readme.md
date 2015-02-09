@@ -49,13 +49,13 @@ server.user.login('username', 'password')
 server.user.update({property: 'value'})
 ```
 
-### Get Data
+#### Get Data
 
 ```javascript
 server.user.get()
 ```
 
-*Code Responsibly: Experimental Project*
+*Code Responsibly: An Experimental Project*
 ______
 
 **- @LoadFive**
