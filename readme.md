@@ -16,7 +16,7 @@ The database is currently saved on an interval. If the server is shut down, clie
 node server.js
 ```
 
-### 2. Add client.js to the <head> of a page:
+### 2. Add client.js to the header of a page:
 ```html
 <script src = "client.js"></script>
 ```
